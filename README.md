@@ -17,7 +17,7 @@
 <br><br><br><img src="download.jpg"><br><br><br><br><br><br>
 <h3><b>Ben 10 is very powerful hero</b></h3><br><br>
 
-<a href="wishwabro.html"><img src="download-png-icon-3-Transparent-Images.png"width="100" align="center"></a>
+<a href="wishwabro.html"><img src="download-png-icon-3-Transparent-Images.png" width="100"></a>
 
 <br><br><br><br>
 <table border="2" align="center">
